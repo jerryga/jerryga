@@ -11,7 +11,7 @@
 
 - 📄 Know about my experiences [Linkedin](https://www.linkedin.com/in/caguard)
 
-- ⚡ Fun fact **I like to code late at night.** 
+- ⚡ Fun fact **Keep exploring.** 
   
   
 
