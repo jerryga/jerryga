@@ -1,11 +1,11 @@
-<h1 align="center">Hi 👋, I'm Asa. Ga</h1>  
-<h3 align="center">A passionate iOS developer.</h3>
+<h1 align="center">Hi 👋, I'm Chason Jia</h1>  
+<h3 align="center">A passionate developer.</h3>
 
 - 🌱 I’m currently learning **BlockChain.**
 
 - 👨‍💻 All of my projects are available at [App Store.](https://apps.apple.com/us/developer/jia-chuansheng/id789568029)
 
-- 💬 Ask me about **Swift, SwiftUI, Flutter, Objective-C or any tech-related stuff.**
+- 💬 Ask me about **Swift, SwiftUI, Flutter, Objective-C, Web Dev, or any tech-related stuff.**
 
 - 📫 How to reach me **[staticga@gmail.com](mailto:staticga@gmail.com)**
 
