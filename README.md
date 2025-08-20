@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Chason Jia</h1>  
 <h3 align="center">A passionate developer.</h3>
 
-- 🌱 I’m currently learning **BlockChain.**
+- 🌱 I’m currently learning **Everything.**
 
 - 👨‍💻 All of my projects are available at [App Store.](https://apps.apple.com/us/developer/jia-chuansheng/id789568029)
 
