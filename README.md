@@ -69,19 +69,19 @@ Here are some of the apps and tools I’ve built — blending design, performanc
 
 ---
 
-### 🐻 [BearLingo](https://play.google.com/store/apps/details?id=com.chasonlab.vocabulary)
+### 🐻 [BearLingo](https://apps.apple.com/us/app/bearlingo/id6753905526)
 > **Vocabulary & Phrase Learning App** — fun, visual, and effective for mastering English.  
 
 - 📚 Daily learning goals & review system  
 - 🎮 Interactive quizzes and streaks  
-- 📱 Available on [App Store](https://apps.apple.com/us/app/bearlingo/id6753905526) and [Google Play](https://play.google.com/store/apps/details?id=com.chasonlab.vocabulary)
+- 📱 Available on [Google Play](https://play.google.com/store/apps/details?id=com.chasonlab.vocabulary) and [App Store](https://apps.apple.com/us/app/bearlingo/id6753905526)
 
 ![iOS](https://img.shields.io/badge/iOS-App-blue?logo=apple)
 ![Android](https://img.shields.io/badge/Android-App-green?logo=android)
 
 ---
 
-### 🎤 [React Native SpeechKit](https://github.com/yourusername/react-native-speechkit)
+### 🎤 [React Native SpeechKit](https://github.com/jerryga/react-native-speechkit)
 > A powerful **React Native library** for real-time speech recognition, recording, and playback — supporting both iOS and Android.
 
 - 🔊 Real-time transcription  
@@ -89,7 +89,7 @@ Here are some of the apps and tools I’ve built — blending design, performanc
 - 📦 Published on npm
 
 ![npm](https://img.shields.io/npm/v/react-native-speechkit?color=brightgreen)
-![GitHub stars](https://img.shields.io/github/stars/yourusername/react-native-speechkit?style=social)
+![GitHub stars](https://img.shields.io/github/stars/jerryga/react-native-speechkit?style=social)
 
 ---
 
@@ -143,5 +143,5 @@ Here are some of the apps and tools I’ve built — blending design, performanc
 
 ## 💖 Support My Work
 If you like my projects and want to help me keep building open-source tools:  
-👉 [**Sponsor Me on GitHub**]([https://github.com/sponsors/yourusername](https://github.com/sponsors/jerryga))
+👉 [**Sponsor Me on GitHub**](https://github.com/sponsors/jerryga)
 
