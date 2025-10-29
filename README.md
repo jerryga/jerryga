@@ -9,7 +9,7 @@
 
 - 👨‍💻 All of my projects are available at [App Store.](https://apps.apple.com/us/developer/jia-chuansheng/id789568029)
 
-- 💬 Ask me about **Swift, SwiftUI, Flutter, Objective-C, Web Dev, or any tech-related stuff.**
+- 💬 Ask me about **Mobile Dev, Web Dev, Backend, or any tech-related stuff.**
 
 - 📫 How to reach me **[staticga@gmail.com](mailto:staticga@gmail.com)**
 
