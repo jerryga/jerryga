@@ -17,8 +17,12 @@
 
 - ⚡ Fun fact **Keep exploring.** 
   
-<h3>AWS</h3>  
-<a href="https://www.credly.com/badges/14eccc02-8f99-4610-b7c8-784b30a95010/public_url" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/jerryga/certifications/6132f380fb675c3c2cb752ed0cf0262c4362d45b/aws-certified-cloud-practitioner.png" alt="aws" width="100" height="100"/> </a>
+<h3>Selected Certifications</h3> 
+
+<p align="left">
+  <a href="https://www.credly.com/badges/14eccc02-8f99-4610-b7c8-784b30a95010/public_url" target="_blank"><img src="https://raw.githubusercontent.com/jerryga/certifications/6132f380fb675c3c2cb752ed0cf0262c4362d45b/aws-certified-cloud-practitioner.png" alt="AWS Cloud Practitioner" width="100" height="100"/></a>
+  <a href="https://www.credly.com/badges/d960ab9a-2438-4045-a969-be3104abae34/public_url" target="_blank"><img src="https://github.com/jerryga/certifications/blob/fcaf3b00c72e0ef1de7617b64249c6c26494e96f/AWS%20Certified%20AI%20Practitioner.png?raw=true" alt="AWS AI Practitioner" width="100" height="100"/></a>
+</p>
 
 <h3 align="left">Languages and Tools:</h3>  
 <h4 align="left">Web</h4>  
