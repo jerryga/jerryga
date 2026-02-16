@@ -7,8 +7,6 @@
 
 - 🎧 Would you like some music? [QuietMelo](https://music.chason.app/) 
 
-- 👨‍💻 All of my projects are available at [App Store.](https://apps.apple.com/us/developer/jia-chuansheng/id789568029)
-
 - 💬 Ask me about **Mobile Dev, Web Dev, Backend, or any tech-related stuff.**
 
 - 📫 How to reach me **[staticga@gmail.com](mailto:staticga@gmail.com)**
