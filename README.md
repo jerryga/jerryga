@@ -9,7 +9,7 @@
 
 - 💬 Ask me about **Mobile Dev, Web Dev, Backend, or any tech-related stuff.**
 
-- 📫 How to reach me **[staticga@gmail.com](mailto:staticga@gmail.com)**
+- 📫 How to reach me **[chasonjia.dev@gmail.com](mailto:chasonjia.dev@gmail.com)**
 
 - 📄 Know about my experiences [Linkedin](https://www.linkedin.com/in/caguard)
 
