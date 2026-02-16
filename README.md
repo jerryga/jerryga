@@ -7,7 +7,7 @@
 
 - 🎧 Would you like some music? [QuietMelo](https://music.chason.app/)
   
-- 📈 Interest in stock? [Stock Monitor]([https://music.chason.app/](https://github.com/jerryga/stock_monitor)) 
+- 📈 Interest in stock? [Stock Monitor](https://github.com/jerryga/stock_monitor) 
 
 - 💬 Ask me about **Mobile Dev, Web Dev, Backend, or any tech-related stuff.**
 
