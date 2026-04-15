@@ -6,7 +6,7 @@
 
 <p align="center">
   🌐 <a href="https://chason.app">Portfolio</a> •
-  🎧 <a href="https://music.chason.app/">QuietMelo</a> •
+  👔 <a href="https://voxly.chason.app/">Voxly</a> •
   📈 <a href="https://github.com/jerryga/stock_monitor">Stock Monitor</a> •
   💼 <a href="https://www.linkedin.com/in/caguard">LinkedIn</a>
 </p>
