@@ -1,57 +1,81 @@
-<h1 align="center">Hi 👋, I'm Chason Jia</h1>  
-<h3 align="center">A lifelong learner.</h3>
-
-- 🌱 I’m currently learning **Everything.**
-
-- 🕸️ My website [Chason](https://chason.app)
-
-- 🎧 Would you like some music? [QuietMelo](https://music.chason.app/)
-  
-- 📈 Interest in stock? [Stock Monitor](https://github.com/jerryga/stock_monitor) 
-
-- 💬 Ask me about **Mobile Dev, Web Dev, Backend, or any tech-related stuff.**
-
-- 📫 How to reach me **[chasonjia.dev@gmail.com](mailto:chasonjia.dev@gmail.com)**
-
-- 📄 Know about my experiences [Linkedin](https://www.linkedin.com/in/caguard)
-
-- ⚡ Fun fact **Keep exploring.** 
-  
-<h3>Selected Certifications</h3> 
-
-<p align="left">
-  <a href="https://www.credly.com/badges/14eccc02-8f99-4610-b7c8-784b30a95010/public_url" target="_blank"><img src="https://raw.githubusercontent.com/jerryga/certifications/6132f380fb675c3c2cb752ed0cf0262c4362d45b/aws-certified-cloud-practitioner.png" alt="AWS Cloud Practitioner" width="100" height="100"/></a>
-  <a href="https://www.credly.com/badges/d960ab9a-2438-4045-a969-be3104abae34/public_url" target="_blank"><img src="https://github.com/jerryga/certifications/blob/fcaf3b00c72e0ef1de7617b64249c6c26494e96f/AWS%20Certified%20AI%20Practitioner.png?raw=true" alt="AWS AI Practitioner" width="100" height="100"/></a>
+<h1 align="center">Hi 👋, I'm Chason Jia</h1>
+<p align="center">
+  <strong>Full-Stack & Mobile Developer</strong><br/>
+  Building real-world products across mobile, web, and cloud.
 </p>
 
-<h3 align="left">Languages and Tools:</h3>  
-<h4 align="left">Web</h4>  
-
-<p align="left"> 
-
-  <a href="https://react.dev/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/reactjs/reactjs-icon.svg" alt="react" width="40" height="40"/></a> 
-  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/javascript/javascript-icon.svg" alt="js" width="40" height="40"/></a>
-  <a href="https://nextjs.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/nextjs/nextjs-icon.svg" alt="next.js" width="40" height="40"/></a> 
-  <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="Tailwind" width="40" height="40"/></a> 
-    <a href="[https://tailwindcss.com/](https://www.typescriptlang.org/)" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/typescriptlang/typescriptlang-icon.svg" alt="TypeScript" width="40" height="40"/></a> 
-
-<h4 align="left">Mobile</h4>  
-  <a href="https://flutter.dev" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" alt="flutter" width="40" height="40"/></a> 
-<a href="https://dart.dev" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/dartlang/dartlang-icon.svg" alt="dart" width="40" height="40"/></a>
-  <a href="https://developer.apple.com/library/archive/documentation/Cocoa/Conceptual/ProgrammingWithObjectiveC/Introduction/Introduction.html" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/apple_objectivec/apple_objectivec-icon.svg" alt="objectivec" width="40" height="40"/></a> 
-  <a href="https://developer.apple.com/swift/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/swift/swift-original.svg" alt="swift" width="40" height="40"/></a> 
-    <a href="https://apps.apple.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/apple_appstore/apple_appstore-icon.svg" alt="AppStore" width="40" height="40"/></a> 
-
-<h4 align="left">Backend</h4>  
-<a href="https://aws.amazon.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/amazon_aws/amazon_aws-icon.svg" alt="aws" width="40" height="40"/></a> 
-<a href="https://firebase.google.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/></a> 
-  <a href="https://www.sqlite.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/sqlite/sqlite-icon.svg" alt="sqlite" width="40" height="40"/></a> 
-  <a href="https://www.python.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/python/python-icon.svg" alt="python" width="40" height="40"/></a> 
-  <a href="https://nodejs.org/en" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/nodejs/nodejs-icon.svg" alt="node.js" width="40" height="40"/></a> 
-
+<p align="center">
+  🌐 <a href="https://chason.app">Portfolio</a> •
+  🎧 <a href="https://music.chason.app/">QuietMelo</a> •
+  📈 <a href="https://github.com/jerryga/stock_monitor">Stock Monitor</a> •
+  💼 <a href="https://www.linkedin.com/in/caguard">LinkedIn</a>
 </p>
 
-<br>
+---
+
+## 🚀 About Me
+
+- 🌱 Currently learning **everything that helps me build better products**
+- 💻 10+ years in **Mobile, Web, and Backend Development**
+- 🧠 Strong focus on **real-world systems, scalability, and UX**
+- 🎯 Goal: Become a **top-tier full-stack engineer in Canada**
+
+---
+
+## 🧰 Tech Stack
+
+### 🌐 Web
+<p>
+  <img src="https://www.vectorlogo.zone/logos/reactjs/reactjs-icon.svg" width="36"/>
+  <img src="https://www.vectorlogo.zone/logos/javascript/javascript-icon.svg" width="36"/>
+  <img src="https://www.vectorlogo.zone/logos/typescriptlang/typescriptlang-icon.svg" width="36"/>
+  <img src="https://www.vectorlogo.zone/logos/nextjs/nextjs-icon.svg" width="36"/>
+  <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" width="36"/>
+</p>
+
+### 📱 Mobile
+<p>
+  <img src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" width="36"/>
+  <img src="https://www.vectorlogo.zone/logos/dartlang/dartlang-icon.svg" width="36"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/swift/swift-original.svg" width="36"/>
+  <img src="https://www.vectorlogo.zone/logos/apple_objectivec/apple_objectivec-icon.svg" width="36"/>
+  <img src="https://www.vectorlogo.zone/logos/apple_appstore/apple_appstore-icon.svg" width="36"/>
+</p>
+
+### ⚙️ Backend & Cloud
+<p>
+  <img src="https://www.vectorlogo.zone/logos/nodejs/nodejs-icon.svg" width="36"/>
+  <img src="https://www.vectorlogo.zone/logos/python/python-icon.svg" width="36"/>
+  <img src="https://www.vectorlogo.zone/logos/sqlite/sqlite-icon.svg" width="36"/>
+  <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" width="36"/>
+  <img src="https://www.vectorlogo.zone/logos/amazon_aws/amazon_aws-icon.svg" width="36"/>
+</p>
+
+---
+
+## 🏆 Certifications
+
+<p>
+  <a href="https://www.credly.com/badges/14eccc02-8f99-4610-b7c8-784b30a95010/public_url">
+    <img src="https://raw.githubusercontent.com/jerryga/certifications/6132f380fb675c3c2cb752ed0cf0262c4362d45b/aws-certified-cloud-practitioner.png" width="90"/>
+  </a>
+  <a href="https://www.credly.com/badges/d960ab9a-2438-4045-a969-be3104abae34/public_url">
+    <img src="https://github.com/jerryga/certifications/blob/fcaf3b00c72e0ef1de7617b64249c6c26494e96f/AWS%20Certified%20AI%20Practitioner.png?raw=true" width="90"/>
+  </a>
+</p>
+
+---
+
+## 📬 Contact
+
+- 📧 Email: **chasonjia.dev@gmail.com**
+- 💬 Ask me about **Full-Stack, Mobile, Cloud, or Product Design**
+
+---
+
+## ⚡ Fun Fact
+
+> Keep exploring. Always.
 
 
 ## 🚀 My Products
